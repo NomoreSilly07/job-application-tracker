@@ -1,0 +1,3 @@
+Day 2:
+- Revised Java basics
+- Planned Job Application Tracker project
