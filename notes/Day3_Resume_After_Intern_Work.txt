@@ -1,0 +1,9 @@
+Day 3 – Resume After Work Gap
+
+- Had 2 days of work pressure during my internship.
+- Resumed learning with Spring Boot fundamentals.
+- Understood how Java classes and methods are exposed as REST APIs.
+- Learned the role of @RestController and @GetMapping.
+
+Key takeaway:
+Consistency means returning after a break, not never missing a day.
